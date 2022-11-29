@@ -1,1 +1,1 @@
-# MS-Spam-Detection-with-Machine-Learning
+# SMS-Spam-Detection-with-Machine-Learning
